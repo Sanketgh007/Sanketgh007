@@ -33,15 +33,7 @@ With hands-on experience in full-stack development, cloud-native solutions, and 
 
 ## 📌 Featured Projects
 
-### 🔹 [Automated Receipt Processing System](#)
-A fully serverless solution using AWS Lambda, S3, Textract, DynamoDB & SES  
-→ Extracts text from receipts, stores structured data, and sends summary emails.
-
-### 🔹 [Speech Recognition System](#)
-Built with Python & NLP – transcribes spoken words into accurate text.  
-→ Focused on intuitive voice-command applications and accessibility.
-
-### 🔹 [To-do List App – MERN Stack](#)
+### 🔹 [To-do List App – MERN Stack](https://github.com/Sanketgh007/To-do-List.git)
 A modern web app with user auth, task CRUD & persistent DB integration.  
 → React frontend + Express & Node backend + MongoDB.
 
