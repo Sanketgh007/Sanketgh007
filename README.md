@@ -42,10 +42,11 @@ Java + MySQL project with a user-friendly web interface for HR workflows.
 → Helps organize and analyze interview responses systematically.
 
 ### 🔹 [Travel-Blog](https://github.com/Sanketgh007/Travel-Blog.git)
-For travel enthusiasts, this template should feature engaging travel blog posts with immersive imagery, a destinations section, an about page, and an easy-to-find contact form.
+For travel enthusiasts, this template features immersive blogs, destination highlights, and a contact form.
 
 ### 🔹 [FleeTOP-Technologies-Assistance-APP](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)
-Developed a ChatBot app using Flutter for cross-platform deployment, integrated with Firebase for real-time updates.
+Chatbot app using Flutter & Firebase for real-time cross-platform support.
+
 ---
 
 ## 📜 Certifications
@@ -57,6 +58,35 @@ Developed a ChatBot app using Flutter for cross-platform deployment, integrated 
 
 ---
 
+## 📈 GitHub Stats & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Streak Stats & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanketgh007&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanketgh007&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/sanket-hegde-759343288/)
@@ -65,10 +95,6 @@ Developed a ChatBot app using Flutter for cross-platform deployment, integrated 
 
 ---
 
-## 📈 GitHub Stats
+## 💡 Bonus
 
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=radical)
-
----
-
-Thanks for stopping by! If you're interested in collaborating or just geeking out about cloud & AI, feel free to connect. 🌟
+If you're interested in my cloud/AI-related work or want to collaborate, feel free to connect. Always open to learning and building cool stuff! 🚀
