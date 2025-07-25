@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Sanket Ganapati Hegde!
 
-Welcome to my GitHub! I'm a passionate software developer and aspiring cloud engineer pursuing my **M.Tech in Cloud Computing** at PES University, Bangalore.
+Welcome to my GitHub! I'm a passionate **Cloud Computing graduate student** and **software developer** who thrives on building scalable, intelligent, and impactful tech solutions.
 
-With hands-on experience in full-stack development, cloud-native solutions, and cross-platform mobile apps, I enjoy building scalable systems that solve real-world problems. I love exploring modern tech stacks—from serverless architectures on AWS to intuitive UI designs with Flutter.
+Currently pursuing my **M.Tech in Cloud Computing at PES University**, I bring strong foundations in **full-stack development**, **serverless architecture**, and **machine learning pipelines**, complemented by real-world project and internship experience.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 M.Tech in Cloud Computing | B.E. in Computer Science
-- 🧠 Passionate about AI, NLP, Distributed Systems & DevOps
-- 💼 Former Intern @ **FleeTOP Technologies** | **Varcons Technology**
-- 🌐 Always learning, building, and exploring open-source projects
+- 🎓 **M.Tech in Cloud Computing** – PES University | **B.E. in Computer Science** – KSIT
+- 💡 Interested in **AI/ML**, **NLP**, **Distributed Systems**, **DevOps**, and **Cloud Engineering**
+- 🧠 Built projects involving **Django**, **Flutter**, **AWS Textract**, **Speech Recognition**, and **MERN**
+- 💼 Interned at **FleeTOP Technologies** and **Varcons Technologies** in mobile and web development
+- 🌐 Constant learner & active contributor to open-source and personal projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `Java` `JavaScript` `C/C++` `SQL` `NoSQL`
+`Python` `Java` `JavaScript` `C` `SQL` `NoSQL`
 
 **Web & App Development:**  
-`React.js` `Node.js` `Express.js` `Flutter` `HTML/CSS`
+`React.js` `Node.js` `Express.js` `MongoDB` `Flutter` `HTML5` `CSS3`
 
 **Cloud & DevOps:**  
-`AWS (Lambda, S3, Textract, DynamoDB, SES)` `Git` `GitHub` `Linux`
+`AWS (Lambda, Textract, SES, S3, DynamoDB)` `Docker` `Kubernetes`  
+`Prometheus` `Grafana` `Postman` `Linux` `Git` `GitHub`
 
 **Tools & IDEs:**  
 `VS Code` `Android Studio` `Eclipse`
@@ -33,32 +35,40 @@ With hands-on experience in full-stack development, cloud-native solutions, and 
 
 ## 📌 Featured Projects
 
-### 🔹 [To-do List App – MERN Stack](https://github.com/Sanketgh007/To-do-List.git)
-A modern web app with user auth, task CRUD & persistent DB integration.  
-→ React frontend + Express & Node backend + MongoDB.
+### 🔹 [Balanced Scorecard Generator](https://github.com/Sanketgh007/Balanced-Scorecard-Generator)
+**Tech:** Django, PostgreSQL, Pandas, Matplotlib  
+→ Multi-tenant performance tracking platform with visual reports, metric import/export, and role-based access.
 
-### 🔹 [Interview Management System](https://github.com/Sanketgh007/Interview-Management-System.git)
-Java + MySQL project with a user-friendly web interface for HR workflows.  
-→ Helps organize and analyze interview responses systematically.
+### 🔹 [Automated Receipt Processing System](https://github.com/Sanketgh007/Receipt-Scanner)
+**Tech:** AWS Lambda, Textract, SES, S3, DynamoDB  
+→ Serverless app that extracts data from receipts and emails expense summaries automatically.
 
-### 🔹 [Travel-Blog](https://github.com/Sanketgh007/Travel-Blog.git)
-For travel enthusiasts, this template features immersive blogs, destination highlights, and a contact form.
+### 🔹 [Intuitive Perception – Speech Recognition](https://github.com/Sanketgh007/Speech-Recognition-NLP)
+**Tech:** Python, ML, NLP  
+→ Real-time speech-to-text analyzer with model tuning and accurate transcription pipeline.
 
-### 🔹 [FleeTOP-Technologies-Assistance-APP](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)
-Chatbot app using Flutter & Firebase for real-time cross-platform support.
+### 🔹 [To-do List App – MERN Stack](https://github.com/Sanketgh007/To-do-List.git)  
+→ Task manager with login, full CRUD, MongoDB persistence, and JWT-based auth.
+
+### 🔹 [Travel Blog Template](https://github.com/Sanketgh007/Travel-Blog.git)  
+→ Responsive HTML/CSS blog template designed during Varcons internship.
+
+### 🔹 [FleeTOP Assistance Chatbot](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)  
+→ Flutter & Firebase chatbot app developed as part of internship for cross-platform support.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ *AWS Educate - Serverless & Compute Services*
-- ✅ *Java (Advanced) - Udemy*
-- ✅ *Network Security - Great Learning*
-- ✅ *AWS DevOps Engineer Learning Plan*
+- ✅ *AWS Educate – Serverless Services*  
+- ✅ *AWS Educate – Compute Services*  
+- ✅ *AWS DevOps Engineer Learning Plan*  
+- ✅ *Java (Advanced) – Udemy*  
+- ✅ *Network Security – Great Learning*
 
 ---
 
-## 📈 GitHub Stats & Analytics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats"/>
@@ -67,7 +77,7 @@ Chatbot app using Flutter & Firebase for real-time cross-platform support.
 
 ---
 
-## 🔥 Streak Stats & Contributions
+## 🔥 Streaks & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanketgh007&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
@@ -95,6 +105,7 @@ Chatbot app using Flutter & Firebase for real-time cross-platform support.
 
 ---
 
-## 💡 Bonus
+## 💡 Open for Collaboration
 
-If you're interested in my cloud/AI-related work or want to collaborate, feel free to connect. Always open to learning and building cool stuff! 🚀
+Interested in **cloud-native**, **AI/ML**, or **open-source projects**?  
+Let’s team up and build something amazing together! 🚀
