@@ -1,108 +1,91 @@
 # 👋 Hi, I'm Sanket Ganapati Hegde!
 
+### Cloud Engineer & M.Tech Student | Building Scalable & Intelligent Systems
+
 [![M.Tech - Cloud Computing](https://img.shields.io/badge/M.Tech-Cloud%20Computing-blue)]()
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)]()
 [![AWS Certified](https://img.shields.io/badge/AWS-Educate%20Certified-orange)]()
-[![Languages](https://img.shields.io/badge/Code-Python%2C%20Java%2C%20JS-informational)]()
-[![DevOps](https://img.shields.io/badge/DevOps-Docker%2C%20K8s%2C%20Prometheus-purple)]()
-
----
-
-Welcome to my GitHub! I'm a curious and creative **Cloud Computing graduate student**, **software engineer**, and **tech enthusiast** with a strong drive to solve real-world problems through technology.
-
-I enjoy building intelligent, scalable systems across domains like **cloud-native development**, **AI/ML**, and **DevOps**—bringing ideas to life using modern stacks and best practices.
+[![DevOps](https://img.shields.io/badge/DevOps-Docker%2C%20K8s-purple)]()
 
 ---
 
 ## 🚀 About Me
 
+I'm a **Cloud Computing graduate student** and **software engineer** driven by a passion for architecting intelligent, scalable solutions. My goal is to bridge the gap between complex real-world problems and elegant, automated solutions using cloud-native technologies and AI/ML.
+
+My journey is fueled by curiosity and a commitment to continuous learning. I thrive on bringing ideas to life, from the initial concept to a fully deployed, production-ready system.
+
 - 🎓 **M.Tech in Cloud Computing** @ PES University | **B.E. in CSE** @ KSIT
-- ⚙️ Skilled in Full Stack Development | Serverless Architecture | Machine Learning
-- 🌍 Interned at **FleeTOP Technologies** (Flutter Chatbot App) and **Varcons Technologies** (Web Templates)
-- 🔬 Passionate about **Distributed Systems**, **Speech/NLP**, and **AWS-based Automations**
-- 🛠️ Always exploring the next big thing in tech and contributing to impactful projects
+- 💡 Core Interests: **Distributed Systems**, **Serverless Architecture**, **AI/ML**, and **DevOps Automation**.
+- 🔭 I'm always exploring the next big thing in tech and contributing to impactful projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-**Languages:**  
-`Python` `Java` `JavaScript` `C` `SQL` `NoSQL`
+I build and innovate with a versatile set of tools and technologies.
 
-**Web & App Development:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Flutter` `HTML` `CSS`
-
-**Cloud & DevOps:**  
-`AWS (Lambda, Textract, SES, S3, DynamoDB)`  
-`Docker` `Kubernetes` `Prometheus` `Grafana`  
-`Git` `GitHub` `Linux` `Postman`
-
-**Tools & IDEs:**  
-`VS Code` `Android Studio` `Eclipse`
+| Category               | Technologies                                                                                             |
+| ---------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Languages** | `Python` `Java` `JavaScript` `C` `SQL` `NoSQL`                                                           |
+| **Cloud & DevOps** | `AWS (Lambda, Textract, SES, S3, DynamoDB)` `Docker` `Kubernetes` `Prometheus` `Grafana` `Git` `Linux`   |
+| **Web & Databases** | `React.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `HTML/CSS`                                        |
+| **Mobile & Tools** | `Flutter` `Android Studio` `VS Code` `Eclipse` `Postman`                                                   |
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 Balanced Scorecard Generator  
-**Tech:** Django, PostgreSQL, Pandas, Matplotlib  
-→ Multi-tenant BSC platform with role-based access, data import/export, and visual reporting dashboards.
+Here are some of the projects I'm proud of. You can find more on my portfolio!
 
-### 🔹 Automated Receipt Processing System  
-**Tech:** AWS Lambda, Textract, SES, S3, DynamoDB  
-→ Serverless system that scans receipts, extracts data with Textract, and sends automated summaries via email.
-
-### 🔹 Intuitive Perception – Speech Recognition  
-**Tech:** Python, NLP, Machine Learning  
-→ Real-time speech-to-text analyzer using advanced NLP for transcription accuracy.
-
-### 🔹 [To-do List App – MERN Stack](https://github.com/Sanketgh007/To-do-List.git)  
-→ User-authenticated task tracker with full CRUD using MongoDB, Express, React, and Node.js.
-
-### 🔹 [Travel Blog Template](https://github.com/Sanketgh007/Travel-Blog.git)  
-→ A visually appealing, responsive blog template built using HTML & CSS during web dev internship.
-
-### 🔹 [FleeTOP Assistance Chatbot](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)  
-→ Cross-platform Flutter app powered by Firebase for real-time chatbot communication.
+| Project                                    | Description                                                                                                                              | Tech Stack                                           |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 📊 **Balanced Scorecard Generator** | A multi-tenant platform with role-based access for data visualization, reporting, and performance management.                            | `Django`, `PostgreSQL`, `Pandas`, `Matplotlib`       |
+| 🤖 **Automated Receipt Processor** | A serverless system to scan receipts, extract data using AI, and send automated email summaries.                                         | `AWS Lambda`, `Textract`, `SES`, `S3`, `DynamoDB`      |
+| 🗣️ **Intuitive Perception** | A real-time speech-to-text analyzer built with advanced NLP models to achieve high-accuracy transcriptions.                              | `Python`, `NLP`, `Machine Learning`                    |
+| ✅ **[To-Do List App (MERN)](https://github.com/Sanketgh007/To-do-List.git)** | A full-stack task tracker with user authentication and complete CRUD functionality.                                                      | `MongoDB`, `Express`, `React`, `Node.js`             |
+| 💬 **[FleeTOP Assistance Chatbot](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)** | A cross-platform Flutter app powered by Firebase for real-time customer assistance via a chatbot.                                        | `Flutter`, `Firebase`                                  |
+| ✈️ **[Travel Blog Template](https://github.com/Sanketgh007/Travel-Blog.git)** | A responsive and visually appealing blog template built during my web development internship.                                            | `HTML`, `CSS`                                        |
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏅 Certifications & Badges
 
-[![AWS Serverless Badge](https://img.shields.io/badge/AWS-Serverless-blueviolet)]()  
-[![AWS Compute Badge](https://img.shields.io/badge/AWS-Compute-blue)]()  
-[![DevOps Badge](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Plan-orange)]()  
-[![Java Certification](https://img.shields.io/badge/Java-Advanced%20(Udemy)-yellow)]()  
+[![AWS Serverless Badge](https://img.shields.io/badge/AWS-Serverless-blueviolet)]()
+[![AWS Compute Badge](https://img.shields.io/badge/AWS-Compute-blue)]()
+[![DevOps Badge](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Plan-orange)]()
+[![Java Certification](https://img.shields.io/badge/Java-Advanced%20(Udemy)-yellow)]()
 [![Network Security](https://img.shields.io/badge/Network%20Security-Great%20Learning-red)]()
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=radical" height="180" alt="Top Languages"/>
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-hegde-759343288/)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-hegdesanket7@gmail.com-red?logo=gmail&logoColor=white)](mailto:hegdesanket7@gmail.com)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Sanketgh007-black?logo=github)](https://github.com/Sanketgh007)
+I'm always excited to collaborate on projects, discuss new technologies, or just chat about the future of tech.
+
+<p align="left">
+  <a href="https://sanket-hegde-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-blue?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/sanket-hegde-759343288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hegdesanket7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Sanketgh007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 💡 Let's Build Together
-
-Whether you're into **cloud**, **AI/ML**, or open-source collaboration — let’s connect and innovate together.  
-I’m always open to ideas, challenges, and exciting tech partnerships! 🚀
+### **💡 Let's build the future, together. 🚀**
