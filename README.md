@@ -86,18 +86,6 @@ I enjoy building intelligent, scalable systems across domains like **cloud-nativ
 
 ---
 
-## 🔥 Contribution Graph & Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanketgh007&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sanketgh007&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
