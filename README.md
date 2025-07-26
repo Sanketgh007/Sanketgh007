@@ -72,6 +72,11 @@ I’m a **cloud-native developer** and a committed lifelong learner. My passion 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgh007&theme=tokyonight" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=tokyonight&hide=css,scss,html&langs_count=10" height="180" />
+</p>
+
+
 ---
 
 ## 🏆 GitHub Trophies
