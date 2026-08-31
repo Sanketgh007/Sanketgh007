@@ -96,6 +96,9 @@ I’m a **cloud-native developer** and a committed lifelong learner. My passion 
   <a href="https://linkedin.com/in/sanket-hegde-759343288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://hashnode.com/@sankethegde" target="_blank">
+    <img src="https://img.shields.io/badge/✍️%20Hashnode-Technical%20Blogs-2962FF?style=for-the-badge" />
+  </a>
   <a href="mailto:hegdesanket7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-hegdesanket7@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
