@@ -1,112 +1,183 @@
-<h1 align="center">👋 Hey there, I'm Sanket Ganapati Hegde</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Building Scalable, Secure & Intelligent Cloud-Native Systems
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Sanket%20Ganapati%20Hegde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Developer%20%7C%20Builder%20of%20Scalable%20%26%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/M.Tech-Cloud%20Computing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Educate%20Certified-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%2C%20K8s-purple?style=for-the-badge" />
-</p>
+<a href="https://sanket-hegde-portfolio.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Cloud+%2B+DevOps+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;M.Tech+Cloud+Computing+%40+PES+University;Turning+ideas+into+scalable+systems;Automating+the+boring%2C+building+the+brilliant." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://img.shields.io/badge/M.Tech-Cloud%20Computing-6366F1?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-Docker%20%26%20K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-I’m a **cloud-native developer** and a committed lifelong learner. My passion lies in **bridging technical innovation with real-world solutions**—automating workflows, analyzing data, and engineering secure systems that scale.
+</div>
 
-✨ Currently pursuing **M.Tech in Cloud Computing @ PES University**  
-🎓 B.E. in Computer Science & Engineering from KSIT  
-🧠 Key interests: **Distributed Systems**, **Serverless Architecture**, **AI/ML**, **DevOps Automation**  
-🧩 Always exploring new tech and striving to push the boundaries of what I know  
+<br/>
 
----
+## 🧭 About Me
 
-## 📚 Why I Learn Continuously
+```yaml
+name: Sanket Ganapati Hegde
+role: Cloud-Native Developer & Lifelong Learner
+based_in: Bengaluru, India
+currently_studying: M.Tech in Cloud Computing @ PES University
+previously: B.E. Computer Science & Engineering @ KSIT
+focus: [Distributed Systems, Serverless Architecture, AI/ML, DevOps Automation]
+mission: "Bridge technical innovation with real-world solutions."
+```
 
-> I believe in **growing a little every day** — whether it's reading docs, shipping code, or debugging complex systems.  
-> Curiosity drives me. Technology evolves fast — I evolve faster.  
-> **Every project, bug, and breakthrough is a step forward in my journey.**  
+> 🌱 **I believe in growing a little every day** — whether that's reading docs, shipping code, or hunting down a stubborn bug.
+> Curiosity drives me. Technology evolves fast — I aim to evolve faster. Every project, bug, and breakthrough is one more step forward. 🚀
 
----
+<br/>
 
 ## 🧰 Tech Toolbox
 
-| 💻 Code & Languages | ☁️ Cloud & DevOps | 🌐 Web & Database | 📱 Mobile & Tools |
-|---------------------|------------------|------------------|------------------|
-| `Python`, `Java`, `JavaScript`, `SQL`, `NoSQL` | `AWS (Lambda, S3, Textract, SES, DynamoDB)`, `Docker`, `Kubernetes`, `Prometheus`, `Grafana` | `React.js`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `HTML5/CSS3` | `Flutter`, `Firebase`, `VS Code`, `Eclipse`, `Android Studio`, `Postman`, `Linux` |
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,mongodb,postgres" />
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,grafana,prometheus" />
+
+**Web & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
+
+**Mobile & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,vscode,androidstudio,postman,linux" />
+
+</div>
+
+<br/>
 
 ## 🌟 Highlight Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 📊 [**Balanced Scorecard Generator**](https://github.com/Sanketgh007/BSC-Generator) | A multi-tenant platform for enterprise KPI tracking, PDF reporting & user-role segregation. | `Django`, `PostgreSQL`, `Pandas`, `Matplotlib` |
-| 🤖 **Automated Receipt Processor** | A serverless solution that extracts receipt data & emails automated expense summaries. | `AWS Lambda`, `Textract`, `SES`, `S3`, `DynamoDB` |
-| 🗣️ **Intuitive Perception** | Real-time speech-to-text engine using NLP & ML models with high transcription accuracy. | `Python`, `NLP`, `Machine Learning` |
-| ✅ [**To-Do App (MERN)**](https://github.com/Sanketgh007/To-do-List.git) | A full-stack productivity tool with secure user auth and CRUD operations. | `MongoDB`, `Express.js`, `React.js`, `Node.js` |
-| 💬 [**FleeTOP Chatbot App**](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git) | Cross-platform support chatbot built for real-time communication. | `Flutter`, `Firebase` |
-| ✈️ [**Travel Blog Template**](https://github.com/Sanketgh007/Travel-Blog.git) | Elegant and responsive HTML/CSS template for travel enthusiasts. | `HTML`, `CSS` |
+<table>
+<tr>
+<td width="50%">
 
----
+### 📊 [Balanced Scorecard Generator](https://github.com/Sanketgh007/BSC-Generator)
+Multi-tenant platform for enterprise KPI tracking, PDF reporting & role-based access.
+<br/>`Django` `PostgreSQL` `Pandas` `Matplotlib`
+
+</td>
+<td width="50%">
+
+### 🤖 Automated Receipt Processor
+Serverless pipeline that extracts receipt data and emails automated expense summaries.
+<br/>`AWS Lambda` `Textract` `SES` `S3` `DynamoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗣️ Intuitive Perception
+Real-time speech-to-text engine powered by NLP & ML for high-accuracy transcription.
+<br/>`Python` `NLP` `Machine Learning`
+
+</td>
+<td width="50%">
+
+### ✅ [To-Do App (MERN)](https://github.com/Sanketgh007/To-do-List.git)
+Full-stack productivity tool with secure auth and complete CRUD functionality.
+<br/>`MongoDB` `Express.js` `React.js` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 [FleeTOP Chatbot App](https://github.com/Sanketgh007/FleeTOP-Technologies-Assistance-APP.git)
+Cross-platform support chatbot built for real-time, seamless communication.
+<br/>`Flutter` `Firebase`
+
+</td>
+<td width="50%">
+
+### ✈️ [Travel Blog Template](https://github.com/Sanketgh007/Travel-Blog.git)
+Elegant, responsive template designed for travel enthusiasts and storytellers.
+<br/>`HTML` `CSS`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🏅 Certifications & Badges
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Serverless-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-Compute-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-Advanced%20(Udemy)-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Security-Great%20Learning-red?style=flat-square" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/AWS-Serverless-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Compute-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-DevOps%20Engineer-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Advanced%20(Udemy)-F89820?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-Great%20Learning-DC2626?style=flat-square&logo=cyberdefenders&logoColor=white" />
 
-## 📊 GitHub Stats (Live)
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgh007&theme=tokyonight" height="180" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=tokyonight&hide=css,scss,html&langs_count=10" height="180" />
-</p>
+## 📊 GitHub Stats
 
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=06B6D4&icon_color=6366F1" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgh007&theme=tokyonight&hide_border=true&ring=6366F1&fire=06B6D4" height="180" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=tokyonight&hide_border=true&hide=css,scss,html&langs_count=10&title_color=06B6D4" height="180" />
+
+</div>
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=onedark&no-frame=true&margin-w=15&column=7" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+</div>
 
----
+<br/>
 
 ## 🔗 Let's Connect
 
-<p align="center">
-  <a href="https://sanket-hegde-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-blueviolet?style=for-the-badge&logo=react" />
-  </a>
-  <a href="https://linkedin.com/in/sanket-hegde-759343288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://hashnode.com/@sankethegde" target="_blank">
-    <img src="https://img.shields.io/badge/✍️%20Hashnode-Technical%20Blogs-2962FF?style=for-the-badge" />
-  </a>
-  <a href="mailto:hegdesanket7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-hegdesanket7@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Sanketgh007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://sanket-hegde-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6366F1?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sanket-hegde-759343288/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hashnode.com/@sankethegde" target="_blank">
+  <img src="https://img.shields.io/badge/✍️%20Hashnode-Technical%20Blogs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+<a href="mailto:hegdesanket7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-hegdesanket7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Sanketgh007" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🌟 Let's build the future, together. I'm just a message away. 🚀
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌟 Let's build the future, together — I'm just a message away. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
