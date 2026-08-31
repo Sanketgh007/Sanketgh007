@@ -163,15 +163,7 @@ Elegant, responsive template designed for travel enthusiasts and storytellers.
 
 </div>
 
-<br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=tokyonight&column=4&row=2" />
-</div>
-
-<br/>
 
 ## 🔗 Let's Connect
 
