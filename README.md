@@ -23,7 +23,7 @@
 name: Sanket Ganapati Hegde
 role: Cloud-Native Developer & Lifelong Learner
 based_in: Bengaluru, India
-currently_studying: M.Tech in Cloud Computing @ PES University
+Latest Education: M.Tech in Cloud Computing @ PES University
 previously: B.E. Computer Science & Engineering @ KSIT
 focus: [Distributed Systems, Serverless Architecture, AI/ML, DevOps Automation]
 mission: "Bridge technical innovation with real-world solutions."
