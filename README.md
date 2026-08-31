@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Sanket%20Ganapati%20Hegde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Developer%20%7C%20Builder%20of%20Scalable%20%26%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Sanket%20Ganapati%20Hegde&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud-Native%20Developer%20%7C%20Builder%20of%20Scalable%20and%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://sanket-hegde-portfolio.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Cloud+%2B+DevOps+%2B+AI+%3D+%E2%9D%A4%EF%B8%8F;M.Tech+Cloud+Computing+%40+PES+University;Turning+ideas+into+scalable+systems;Automating+the+boring%2C+building+the+brilliant." alt="Typing SVG" />
@@ -168,7 +168,7 @@ Elegant, responsive template designed for travel enthusiasts and storytellers.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sanketgh007&theme=tokyonight&column=4&row=2" />
 </div>
 
 <br/>
