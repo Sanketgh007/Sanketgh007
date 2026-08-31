@@ -131,12 +131,12 @@ Elegant, responsive template designed for travel enthusiasts and storytellers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanketgh007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=06B6D4&icon_color=6366F1" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgh007&theme=tokyonight&hide_border=true&ring=6366F1&fire=06B6D4" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sanketgh007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=06B6D4&icon_color=6366F1" height="180" />
+<img src="https://streak-stats.demolab.com/?user=Sanketgh007&theme=tokyonight&hide_border=true&ring=6366F1&fire=06B6D4" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=tokyonight&hide_border=true&hide=css,scss,html&langs_count=10&title_color=06B6D4" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanketgh007&layout=compact&theme=tokyonight&hide_border=true&hide=css,scss,html&langs_count=10&title_color=06B6D4" height="180" />
 
 </div>
 
